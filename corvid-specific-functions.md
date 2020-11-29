@@ -24,8 +24,20 @@
 ## Return Object Parameters
 - Function name: \<createorder>
 - Name: \<_id>
-- Type: \<string>
-- Description: \<Unique order ID>
-- Notes/Limitations: \<>
-- Enum: \<>
-- Required/Optional: \<>
+  - Type: \<string>
+  - Description: \<Unique order ID>
+  - Notes/Limitations: \<>
+  - Enum: \<>
+  - Required/Optional: \<>
+- Name: \<channelInfo.externalOrderId>
+  - Type: \<string>
+  - Description: \<Order ID from an external system (such as eBay or Amazon).>
+  - Notes/Limitations: \<>
+  - Enum: \<>
+  - Required/Optional: \<Optional>
+- Name: \<weightUnit>>
+  - Type: \<string>
+  - Description: \<The unit in which the order's weight is measured. Either "KG" or "LB". If not provided, the site's default weight unit is used.>
+  - Notes/Limitations: \<>
+  - Enum: \<KG, LB>
+  - Required/Optional: \<Optional>
