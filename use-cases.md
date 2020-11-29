@@ -1,12 +1,10 @@
 # High-Level Business Scenario + Use Case (separate for TPA and Corvid)
 
-< </br>
-1. The reason the TPA/Corvid dev wants to use this functionality (what they plan to build on top of the API).
-2. The step-by-step process the user will follow to complete this scenario, including the specific endpoint/function they will use.
-
-For example:
-
 # TPA Use Case
+1. The reason the TPA/Corvid dev wants to use this functionality (what they plan to build on top of the API).
+2. The step-by-step process the user will follow to complete this scenario, including the specific endpoint/function they will use. </br>
+\< </br>
+For example: 
 ## Import my products to the customer’s Wix site and offer complete drop-shipping services.
 1. Import products - Use Create Product Endpoint
 1. Sign up for Order Created webhook
