@@ -2,19 +2,19 @@
 ## Function Parameters
 - Function name: \<create order>
   - If a promise, the reason promise is fulfilled or rejected: <Fulfilled - Order created Rejected - Error message>
-    - Name: \<orderInfo>
+    - Parameter Name: \<orderInfo>
       - Type: \<OrderInfo>
       - Description: \<The information for the order being created.>
       - Notes/Limitations: <>
       - Enum <>
       - Required/Optional: \<Required>
-    - Name: \<orderInfo.cartID>
+    - Parameter Name: \<orderInfo.cartID>
       - Type: \<string>
       - Description: \<Shopping cart ID.>
       - Notes/Limitations: <>
       - Enum <>
       - Required/Optional: \<Required>
-    - Name: \<orderInfo.channelInfo.type>
+    - Parameter Name: \<orderInfo.channelInfo.type>
       - Type: \<string>
       - Description: \<Sales channel that submitted the order.>
       - Notes/Limitations: <>
@@ -23,13 +23,13 @@
 
 ## Return Object Parameters
 - Function name: \<createorder>
-  - Name: \<_id>
+  - Parameter Name: \<_id>
     - Type: \<string>
     - Description: \<Unique order ID>
     - Notes/Limitations: \<>
     - Enum: \<>
     - Required/Optional: \<>
-  - Name: \<channelInfo.externalOrderId>
+  - Parameter Name: \<channelInfo.externalOrderId>
     - Type: \<string>
     - Description: \<Order ID from an external system (such as eBay or Amazon).>
     - Notes/Limitations: \<>
