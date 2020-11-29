@@ -1,7 +1,7 @@
 # MarkDown Templates
 
 This repo contains template MD files for providing technical writers with the information they need for a new API. 
-You provide the following information in these files: 
+This is a summary of how to use these files: 
 - In API-intro you provide: 
   - A description of the full API that focuses on the functionality the API provides within Wix (not how the Corvid dev or TPA will use it)
   - API Terminology
@@ -11,6 +11,7 @@ You provide the following information in these files:
 - In error-codes you provide: A list of error codes and their long descriptions. Short descriptions are provided in the proto.
 - In corvid-specfic-functions you provide: The list of parameters and their details for corvid-specific functions and return objects.
 - In corvid-code-examples you provide: Simple and complex code examples for Corvid, including example name, description, and code.
+- proto-information is a list of the information you need to provide in the proto files for each endpoint.
 
 Notes: 
 >  - This repo is a template repo so you can use it as a template in the repo for your API.
