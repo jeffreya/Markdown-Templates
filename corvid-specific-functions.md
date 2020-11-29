@@ -35,7 +35,7 @@
     - Notes/Limitations: \<>
     - Enum: \<>
     - Required/Optional: \<Optional>
-  - Name: \<weightUnit>
+  - Parameter Name: \<weightUnit>
     - Type: \<string>
     - Description: \<The unit in which the order's weight is measured. Either "KG" or "LB". If not provided, the site's default weight unit is used.>
     - Notes/Limitations: \<>
