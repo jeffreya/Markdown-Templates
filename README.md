@@ -13,7 +13,7 @@ It contains the following files:
 - corvid-code-examples provides: Simple and complex code examples for Corvid, including example name, description, and code.
 
 Notes: 
-> This repo is a template repo so you can use it as a template in the repo for your API.
-> The files contain instructions as well as examples as placeholder text. Any text surrounded by angle brackets < > is meant to be replaced.
-> We tried to keep the need to work with formatting to a minimum so you can focus on adding the content quickly.
-> Please either copy/paste the sections in the files as needed for your API or duplicate files.
+>  - This repo is a template repo so you can use it as a template in the repo for your API.
+>  - The files contain instructions as well as examples as placeholder text. Any text surrounded by angle brackets < > is meant to be replaced.
+>  - We tried to keep the need to work with formatting to a minimum so you can focus on adding the content quickly.
+>  - Please either copy/paste the sections in the files as needed for your API or duplicate files.
