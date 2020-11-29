@@ -1,6 +1,7 @@
 # API Name: <updateInventoryVariantFieldsByProductId()>
 ## Simple Example
 ### Description: \<Update a variant's inventory information by product ID> 
+\<
 ```javascript
 /*******************************
  * Backend code - inventory.jsw *
@@ -70,9 +71,13 @@ $w.onReady(async function () {
  * 	}
  */
  ```
+ </br> >
  
  ## Full Scenario
- ### Description: Update a variant's inventory information by product ID using user input
+ The description should reflect business use cases. Includes a description of the scenario and what the example assumes, such as specific editor elements, etc.
+
+ ### Description: \<Update a variant's inventory information by product ID using user input>
+\< </br>
 This example assumes the following elements exist on the page:
 
 - Text boxes for entering the product ID and the inventory amount.
@@ -160,3 +165,4 @@ export async function updateByProductIdRefreshVariantId_click(event) {
  * 	}
  */
  ```
+</br> >
