@@ -1,7 +1,7 @@
 # MarkDown Templates
 
 This repo contains template MD files for providing technical writers with the information they need for a new API. 
-It contains the following files: 
+You provide the following information in these files: 
 - In API-intro you provide: 
   - A description of the full API that focuses on the functionality the API provides within Wix (not how the Corvid dev or TPA will use it)
   - API Terminology
