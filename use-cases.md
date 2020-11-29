@@ -16,7 +16,7 @@ For example:
 1. Notify Wix when order is dispatched, including tracking data - Use Create Fulfillment Endpoint
 
 You can reference [this doc](https://docs.google.com/document/d/18TDU40kPEmVxHNJ5AFNPo82DDgPv5uLIYGeOiGJFLjI/edit) for more REST examples 
-</br>\>
+</br>
 
 # Corvid Use Case
 ## Create a custom product management page for a client, allowing them to create and update a product and insert it into a collection using the site only, without having to access the dashboard/business manager.
