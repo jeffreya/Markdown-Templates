@@ -1,10 +1,31 @@
 # Corvid Function Parameters and Return Information
-
+## Function Parameters
 - Function name: \<create order>
-- If a promise, the reason promise is fulfilled or rejected: <Fulfilled - Order created Rejected - Error message>
-  - Name: \<orderInfo>
-  - Type: \<OrderInfo>
-  - Description: \<The information for the order being created.>
-  - Notes/Limitations: <>
-  - Enum <>
-  - Required/Optional: \<Required>
+  - If a promise, the reason promise is fulfilled or rejected: <Fulfilled - Order created Rejected - Error message>
+    - Name: \<orderInfo>
+      - Type: \<OrderInfo>
+      - Description: \<The information for the order being created.>
+      - Notes/Limitations: <>
+      - Enum <>
+      - Required/Optional: \<Required>
+    - Name: \<orderInfo.cartID>
+      - Type: \<string>
+      - Description: \<Shopping cart ID.>
+      - Notes/Limitations: <>
+      - Enum <>
+      - Required/Optional: \<Required>
+    - Name: \<orderInfo.channelInfo.type>
+      - Type: \<string>
+      - Description: \<Sales channel that submitted the order.>
+      - Notes/Limitations: <>
+      - Enum <"WEB": Wix online store. "POS": Point of sale. "EBAY": eBay. "OTHER_PLATFORM": Order imported from another system (such as Cart2Cart). "WIX_APP_STORE": Order created via the Wix mobile app. >
+      - Required/Optional: \<Required>
+
+## Return Object Parameters
+- Function name: \<createorder>
+- Name: \<_id>
+- Type: \<string>
+- Description: \<Unique order ID>
+- Notes/Limitations: \<>
+- Enum: \<>
+- Required/Optional: \<>
