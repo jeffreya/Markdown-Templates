@@ -13,7 +13,7 @@ This is a summary of how to use these files:
 - In corvid-code-examples you provide: Simple and complex code examples for Corvid, including example name, description, and code.
 - proto-information is a list of the information you need to provide in the proto files for each endpoint.
 
-Notes: 
+Note: 
 >  - This repo is a template repo so you can use it as a template in the repo for your API.
 >  - The files contain instructions as well as examples as placeholder text. Any text surrounded by angle brackets < > is meant to be replaced.
 >  - We tried to keep the need to work with formatting to a minimum so you can focus on adding the content quickly.
