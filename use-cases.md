@@ -3,8 +3,7 @@
 # TPA Use Case
 1. The reason the TPA/Corvid dev wants to use this functionality (what they plan to build on top of the API).
 2. The step-by-step process the user will follow to complete this scenario, including the specific endpoint/function they will use.
-3. You can reference [this doc](https://docs.google.com/document/d/18TDU40kPEmVxHNJ5AFNPo82DDgPv5uLIYGeOiGJFLjI/edit) for more REST examples. 
-</br>
+3. You can reference [this doc](https://docs.google.com/document/d/18TDU40kPEmVxHNJ5AFNPo82DDgPv5uLIYGeOiGJFLjI/edit) for more REST examples.
 
 \< </br>
 For example: 
