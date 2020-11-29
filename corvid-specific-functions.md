@@ -1,4 +1,4 @@
-# Corvid Function Parameters and Return Information
+# Corvid Function Parameters and Return Object Information
 ## Function Parameters
 - Function name: \<create order>
   - If a promise, the reason promise is fulfilled or rejected: <Fulfilled - Order created Rejected - Error message>
