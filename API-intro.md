@@ -19,11 +19,11 @@ List of any general terms the writer needs to understand to document the API. Ma
 \>
 
 ## Limitations
-< </br>**For example:**
-	- Price discounts for collections apply to every item in that collection, no matter the item's price. 
-	If the coupon sets a $10 discount and there is an $8 item in that collection, that item will be free when a 
-	customer applies the coupon code.
-	- Coupon codes are case and space sensitive. (We recommend instructing customers to copy and paste the
-	coupon code without making any changes.) </br>
+< </br>**For example:**  
+- Price discounts for collections apply to every item in that collection, no matter the item's price. 
+If the coupon sets a $10 discount and there is an $8 item in that collection, that item will be free when a 
+customer applies the coupon code.  
+- Coupon codes are case and space sensitive. (We recommend instructing customers to copy and paste the
+coupon code without making any changes.) </br>
 	
 \>
